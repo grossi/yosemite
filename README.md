@@ -1,4 +1,4 @@
-# Yosemite
+# 🔨 Yosemite
 
 ## A component library
 
