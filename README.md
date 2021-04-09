@@ -1,5 +1,5 @@
-# 🔨 Yosemite
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/675685/114219575-37060f00-9941-11eb-9554-30040ca8f501.png" alt="Yosemite logo" width="450" />
+</p>
 
-## A component library
-
-A dark theme based component library for ReactJs
+A dark theme component library for ReactJs
