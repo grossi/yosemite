@@ -1,0 +1,25 @@
+import { Meta, Story, Canvas } from '@storybook/addon-docs/blocks';
+import Button from '.';
+
+<Meta title="UI/Button" component={Button} />
+
+# Button
+
+Yosemite Button
+
+export const Template = (args) => <Button {...args} />;
+
+## Cor 'primary'
+
+<Canvas>
+  <Story name="Light" args={{children: "Rawr", variant: "light"}}>
+    {(args) => <Button {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story name="Dark" args={{children: "Rawr", variant: "dark"}}>
+    {(args) => <Button {...args} />}
+  </Story>
+</Canvas>
+
